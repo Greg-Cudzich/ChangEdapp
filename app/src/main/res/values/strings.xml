@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">changEdapp</string>
+    <string name="body_text">We need some basic information to get \n "         " your ChangEd Account all set up</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Body_textWelcome">"    "Thank You for using ChangEd \n lets start saving on student loans!</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="email">Email</string>
+    <string name="password_help">* Password Requires: \n Combination of letters,number,symbol</string>
+    <string name="Google_plus">OR USE</string>
+    <string name="password">Password</string>
+</resources>
